@@ -779,7 +779,7 @@ footer {
     height: 80px;
     align-items: center;
     justify-content: space-around;
-    background: url("/images/footer_img1.jpg") no-repeat;
+    background: url("../images/footer_img1.jpg") no-repeat;
     background-size: cover;
 }
 footer ul {
